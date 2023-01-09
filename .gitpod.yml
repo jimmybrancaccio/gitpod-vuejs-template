@@ -1,0 +1,8 @@
+
+image:
+  file: .gitpod.Dockerfile
+
+vscode:
+  extensions:
+    - octref.vetur
+    - esbenp.prettier-vscode
